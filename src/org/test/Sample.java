@@ -15,6 +15,7 @@ public class Sample {
 		
 		System.out.println("Static variable after increment : "+b);
 	
+		System.out.println("GitTask - pull");
 		}
 	
 	public static void main(String[] args) {
